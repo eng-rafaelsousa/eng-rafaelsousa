@@ -4,9 +4,9 @@
 🇧🇷 Brazil
 
 
-Com mais de **10 anos de experiência em tecnologia**, atuo no desenvolvimento de **sistemas embarcados e soluções de IoT para aplicações industriais**. Minha atuação integra **engenharia eletrônica, firmware e análise inteligente de dados de sensores**, criando soluções completas que vão **do hardware ao processamento de dados na borda (Edge AI)**.
+Com mais de **10 anos de experiência em tecnologia**, desenvolvo **sistemas embarcados e soluções de IoT para aplicações industriais**. Meu trabalho integra **engenharia eletrônica, desenvolvimento de firmware e análise inteligente de dados de sensores**, criando soluções completas que vão **do hardware ao processamento de dados na borda (Edge AI)**.
 
-Atuo como **Desenvolvedor de Sistemas Embarcados** na Kanagawa Technologies, dedicando-me também à pesquisa de **sistemas inteligentes para monitoramento de ativos críticos**.
+Atualmente sou **Desenvolvedor de Sistemas Embarcados na Kanagawa Technologies**, dedicando-me também à pesquisa de **sistemas inteligentes para monitoramento de ativos críticos**.
 
 ---
 
@@ -25,12 +25,12 @@ Atuo como **Desenvolvedor de Sistemas Embarcados** na Kanagawa Technologies, ded
 
 ## 🧠 Expertise Técnica
 
-- 🏗️ **Hardware Design:** Projeto de PCBs SMD com foco em **DFM (Design for Manufacturing)** utilizando **KiCad** e **EasyEDA**.
+- 🏗️ **Hardware Design:** Projeto de PCBs SMD/PTH com foco em **DFM (Design for Manufacturing)** utilizando **KiCad** e **EasyEDA**.
 - ⚡ **Firmware Development:** Desenvolvimento de firmware em **C/C++, Python e MicroPython** para sistemas embarcados críticos.
 - 🤖 **Edge AI & TinyML:** Implementação de modelos embarcados para **detecção de anomalias em sinais de vibração e corrente**.
-- 📡 **Connectivity:** Integração de protocolos de comunicação como **LoRaWAN, GPS e DNP3**.
+- 📡 **Connectivity:** Implementação de protocolos e redes **MQTT, Wi-Fi, Bluetooth (BLE), LoRaWAN, GPS e DNP3**.
 - 📊 **Predictive Maintenance:** Análise de dados de sensores para geração de indicadores como **MTBF e MTTR**.
-- 🎖️ **Innovation:** Premiado nacionalmente (**Inova SENAI**) por soluções de tecnologia industrial aplicada.
+- 🎖️ **Innovation:** Premiado nacionalmente (**Inova SENAI 2014** e **CONACIAG 2025**) por soluções tecnológicas aplicadas.
 
 ---
 
@@ -44,6 +44,17 @@ Atuo como **Desenvolvedor de Sistemas Embarcados** na Kanagawa Technologies, ded
 
 ### 📡 IoT & Data
 ![LoRa](https://img.shields.io/badge/LoRa-00EEFF?style=for-the-badge&logo=lora&logoColor=black) ![MQTT](https://img.shields.io/badge/MQTT-3C52F3?style=for-the-badge&logo=mqtt&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📚 Publications & Recognition
+
+### **Monitoramento inteligente em bombas hidráulicas utilizando machine learning embarcado**
+*Universo IF 2025* | [Acessar Artigo](https://www.even3.com.br/anais/universoif2025/1348649-monitoramento-inteligente-em-bombas-hidraulicas-utilizando-machine-learn-embarcado/)
+- Pesquisa sobre manutenção preditiva utilizando TinyML para detecção de anomalias em ativos hidráulicos.
+
+### **Sistema de Irrigação de Precisão com ML Acelerado por FPGA: Controle Adaptativo e Explicável**
+*I Congresso Nacional de Ciências Agrárias (CONACIAG) 2025*
 
 ---
 
