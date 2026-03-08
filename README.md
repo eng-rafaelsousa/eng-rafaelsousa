@@ -6,7 +6,7 @@
 
 Com mais de **10 anos de experiência em tecnologia**, atuo no desenvolvimento de **sistemas embarcados e soluções de IoT para aplicações industriais**. Minha atuação integra **engenharia eletrônica, firmware e análise inteligente de dados de sensores**, criando soluções completas que vão **do hardware ao processamento de dados na borda (Edge AI)**.
 
-Atualmente, atuo como **Desenvolvedor de Sistemas Embarcados na Kanagawa Technologies** e pesquisador em **sistemas inteligentes para monitoramento de ativos críticos**.
+Atuo como **Desenvolvedor de Sistemas Embarcados** na Kanagawa Technologies, dedicando-me também à pesquisa de **sistemas inteligentes para monitoramento de ativos críticos**.
 
 ---
 
