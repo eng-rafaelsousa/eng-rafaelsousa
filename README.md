@@ -13,8 +13,8 @@ Atualmente, atuo como **Desenvolvedor de Sistemas Embarcados na Kanagawa Technol
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="www.linkedin.com/in/rafael-sousa-814580304">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/rafael-sousa-814580304" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://lattes.cnpq.br/2534670391315432">
     <img src="https://img.shields.io/badge/Currículo_Lattes-EBBC24?style=for-the-badge&logo=googlescholar&logoColor=white" />
@@ -64,9 +64,10 @@ Manutenção preditiva com análise de vibração em tempo real (Raspberry Pi Pi
 ---
 
 ## 📊 GitHub Stats
+
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eng-rafaelsousa&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-rafaelsousa&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eng-rafaelsousa&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-rafaelsousa&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
