@@ -74,15 +74,16 @@ Manutenção preditiva com análise de vibração em tempo real (Raspberry Pi Pi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eng-rafaelsousa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=eng-rafaelsousa&theme=tokyonight&hide_border=true"/>
+<p align="left">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eng-rafaelsousa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eng-rafaelsousa&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eng-rafaelsousa&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="left">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-rafaelsousa&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
