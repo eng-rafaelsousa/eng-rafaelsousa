@@ -69,7 +69,7 @@ Atualmente sou **Desenvolvedor de Sistemas Embarcados na Kanagawa Technologies**
 ### 🛠️ [Monitoramento de Bombas Hidráulicas via TinyML](https://github.com/eng-rafaelsousa/pump-monitoring-tinyml)
 Manutenção preditiva com análise de vibração em tempo real (Raspberry Pi Pico W + MPU6050).
 
-### 🌾 [Sistema de Irrigação de Precisão com ML Acelerado por FPGA](LINK_AQUI)
+### 🌾 [Sistema de Irrigação de Precisão com ML Acelerado por FPGA](https://github.com/eng-rafaelsousa/irrigacao-fpga-ml)
 **Premiado com Menção Honrosa (CONACIAG 2025)**. Inferência determinística e IA Explicável (XAI).
 
 ---
