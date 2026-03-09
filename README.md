@@ -66,7 +66,7 @@ Atualmente sou **Desenvolvedor de Sistemas Embarcados na Kanagawa Technologies**
 
 ## 🚀 Projetos em Destaque
 
-### 🛠️ [Monitoramento de Bombas Hidráulicas via TinyML](LINK_AQUI)
+### 🛠️ [Monitoramento de Bombas Hidráulicas via TinyML](https://github.com/eng-rafaelsousa/pump-monitoring-tinyml)
 Manutenção preditiva com análise de vibração em tempo real (Raspberry Pi Pico W + MPU6050).
 
 ### 🌾 [Sistema de Irrigação de Precisão com ML Acelerado por FPGA](LINK_AQUI)
