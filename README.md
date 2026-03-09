@@ -76,10 +76,13 @@ Manutenção preditiva com análise de vibração em tempo real (Raspberry Pi Pi
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-rafaelsousa&theme=tokyonight&hide_border=false" />
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=eng-rafaelsousa&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eng-rafaelsousa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-rafaelsousa&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-rafaelsousa&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
